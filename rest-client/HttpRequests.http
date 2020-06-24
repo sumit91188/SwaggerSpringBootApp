@@ -1,0 +1,3 @@
+###
+# Get Request To Fetch Rules
+GET http://localhost:8080/v2/user/sumit
